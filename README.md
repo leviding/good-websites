@@ -145,6 +145,6 @@
 
 欢迎关注微信公众号：搜索 `leviding` 或扫描下方二维码
 
-![微信公众号：LeviDing](asset/weixin.jpg)
+![微信公众号：LeviDing](http://oiiyyn1t0.bkt.clouddn.com/levidinggzh.jpg)
 
 <br />
