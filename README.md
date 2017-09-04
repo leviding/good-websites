@@ -139,10 +139,10 @@
 
 ## 联系我
 
-欢迎在项目的 <a href="https://github.com/leviding/fe-camp/issues" target="_blank">issue</a> 中提问，我会在那里进行回答。
+欢迎在提 Issues 或者进行 PR，共同丰富这个列表。
 
 欢迎加入 QQ 讨论群：`637481811` 。
 
 欢迎关注微信公众号：搜索 `leviding` 或扫描下方二维码
 
-<img src="http://oiiyyn1t0.bkt.clouddn.com/levidinggzh.jpg" height="200px" width="400px" />
+![](https://segmentfault.com/img/remote/1460000011007001)
