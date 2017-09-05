@@ -1,6 +1,11 @@
 ## Good Websites
 
-欢迎大家提 Issues 或者进行 PR，为大家推荐优秀英文网站。
+[![](https://badge.juejin.im/entry/59ad430f6fb9a0247b3b862b/likes.svg?style=flat)](https://juejin.im/entry/59ad430f6fb9a0247b3b862b/detail)
+
+---
+
+**欢迎大家提 Issues 或者进行 PR，为大家推荐优秀英文网站。**
+
 
 ### 前端
 
