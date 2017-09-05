@@ -1,4 +1,4 @@
-## good-websites
+## Good Websites
 
 欢迎大家提 Issues 或者进行 PR，为大家推荐优秀英文网站。
 
